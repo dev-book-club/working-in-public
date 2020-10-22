@@ -29,22 +29,22 @@ By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal)
 
 ---
 
-# Chapter reviews
+# 📖 Chapter reviews
 
 **Note:** Add your chapter reviews in any of the the sections below by tapping on "Write" > "Leave a comment"
 
 
-[📖 00: Introduction](https://github.com/dev-book-club/working-in-public/discussions/1)
+[:wave: 00: Introduction](https://github.com/dev-book-club/working-in-public/discussions/1)
 
-[📖 01: GitHub as a platform](https://github.com/dev-book-club/working-in-public/discussions/2)
+[:octocat: 01: GitHub as a platform](https://github.com/dev-book-club/working-in-public/discussions/2)
 
-[📖 02: The structure of an open source project](https://github.com/dev-book-club/working-in-public/discussions/3)
+[:building_construction: 02: The structure of an open source project](https://github.com/dev-book-club/working-in-public/discussions/3)
 
-[📖 03: Roles, incentives, and relationships](https://github.com/dev-book-club/working-in-public/discussions/4)
+[👥 03: Roles, incentives, and relationships](https://github.com/dev-book-club/working-in-public/discussions/4)
 
-[📖 04: The work required by software](https://github.com/dev-book-club/working-in-public/discussions/5)
+[🛠 04: The work required by software](https://github.com/dev-book-club/working-in-public/discussions/5)
 
-[📖 05: Managing the costs of production](https://github.com/dev-book-club/working-in-public/discussions/6)
+[🏭 05: Managing the costs of production](https://github.com/dev-book-club/working-in-public/discussions/6)
 
 ---
 
