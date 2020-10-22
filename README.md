@@ -1,13 +1,16 @@
-# Book Club: Working in public
+# Dev Book Club: Working in public
+
+[![Working in Public](./media/stripe-press-wip-banner.png)](https://amzn.to/3oewXJs)
 
 ## Working in public: *The making and maintenance of open source software.*
 
 By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal) 
+<img src="./media/wip-book.jpg" align="right" alt="Working in public book" width="150">
 
 ⭐️ ⭐️ ⭐️ ⭐️ (4.24)
 • 📖 [Stripe Press](https://press.stripe.com/) 
-• 📱 [Kindle](https://www.amazon.com/gp/product/B08BDGXVK9/ref=x_gr_w_glide_sin?caller=Goodreads&callerLink=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F54140556-working-in-public%3Fac%3D1%26from_search%3Dtrue%26qid%3D4vkdCu6hz1%26rank%3D1&tag=x_gr_w_glide_sin-20)
-• 📦 [Amazon](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
+• 📱 [Kindle](https://amzn.to/3ohZkpU)
+• 📦 [Amazon](https://amzn.to/3oewXJs)
 • 📚 [Goodreads](https://www.goodreads.com/book/show/54140556-working-in-public)
 • 🔎 [ISBN0578675862](https://isbnsearch.org/isbn/0578675862) 
 
@@ -46,4 +49,4 @@ By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal)
 ---
 
 
-[Working in Public](https://www.goodreads.com/book/show/54140556-working-in-public)
+[Working in Public](https://amzn.to/3ohZkpU)
