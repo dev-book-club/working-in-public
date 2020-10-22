@@ -23,7 +23,7 @@ By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal)
 2. Add mini chapter reviews for discussion and/or comment on other reviews listed below.
 3. Reward yourself for completing a book with new friends 🏆
 
-👋 Welcome to Dev Book Club
+# 👋 Welcome to Dev Book Club
 
 [💬 General Discussion](https://www.notion.so/2852d9cda839429abda3690dd7864527)
 
