@@ -7,11 +7,12 @@
 By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal) 
 
 <img src="./media/wip-book.jpg" align="right" alt="Working in public book" width="225">
-<p align="left">⭐️ ⭐️ ⭐️ ⭐️ (4.24) • 📖 <a href="https://press.stripe.com/">Stripe Press</a> 
+<p align="left">⭐️ ⭐️ ⭐️ ⭐️ (4.24)
+ <br>📖 <a href="https://press.stripe.com/">Stripe Press</a> 
 • 📱 <a href="https://amzn.to/3ohZkpU">Kindle</a>
 • 📦 <a href="https://amzn.to/3oewXJs">Amazon</a>
 • 📚 <a href="https://www.goodreads.com/book/show/54140556-working-in-public">Goodreads</a>
-• 🔎 <a href="https://isbnsearch.org/isbn/0578675862">ISBN0578675862</a></p>
+• 🔎 <a href="https://isbnsearch.org/isbn/0578675862">ISBN</a></p>
 
 > ### *`"An inside look at modern open source software developers—and their applications to, and influence on, our online social world."`*
 
