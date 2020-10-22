@@ -6,7 +6,7 @@
 
 By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal) 
 
-<img src="./media/wip-book.jpg" align="right" alt="Working in public book" width="200">
+<a href="https://amzn.to/3ohZkpU"><img src="./media/wip-book.jpg" align="right" alt="Working in public book" width="200"></a>
 <p align="left">⭐️ ⭐️ ⭐️ ⭐️ (4.24)
  <br>📖 <a href="https://press.stripe.com/">Stripe Press</a> 
 • 📱 <a href="https://amzn.to/3ohZkpU">Kindle</a>
