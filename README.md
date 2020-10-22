@@ -13,7 +13,6 @@ By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal)
 
 > *"An inside look at modern open source software developers--and their applications to, and influence on, our online social world."*
 
----
 
 ## TL;DR
 
@@ -23,30 +22,28 @@ By [Nadia Eghbal](https://www.goodreads.com/author/show/15901359.Nadia_Eghbal)
 
 👋 Welcome to Dev Book Club
 
-[General Discussion](https://www.notion.so/2852d9cda839429abda3690dd7864527)
+[💬 General Discussion](https://www.notion.so/2852d9cda839429abda3690dd7864527)
 
 ---
 
 # Chapter reviews
 
-**Note:** Add your chapter review in any of the the sections below by tapping on "New" > Templates > Chapter Review  
+**Note:** Add your chapter reviews in any of the the sections below by tapping on "Write" > "Leave a comment"
 
-![Book%20Club%20Working%20in%20public%207b20099446d242a79117b1aeab7f5dd2/Untitled.png](Book%20Club%20Working%20in%20public%207b20099446d242a79117b1aeab7f5dd2/Untitled.png)
 
-[00: Introduction](https://www.notion.so/fdfbbe8e4c9e4820888577f837ea5977)
+[📖 00: Introduction](https://github.com/dev-book-club/working-in-public/discussions/1)
 
-[01: GitHub as a platform](https://www.notion.so/c961da4b98884ca19f16ff263104ff4d)
+[📖 01: GitHub as a platform](https://github.com/dev-book-club/working-in-public/discussions/2)
 
-[02: The structure of an open source project](https://www.notion.so/35f1ec8fcc754c498350449c022d01fb)
+[📖 02: The structure of an open source project](https://github.com/dev-book-club/working-in-public/discussions/3)
 
-[03: Roles, incentives, and relationships](https://www.notion.so/c35bc0c27fc445f392d52d128c99c647)
+[📖 03: Roles, incentives, and relationships](https://github.com/dev-book-club/working-in-public/discussions/4)
 
-[04: The work required by software](https://www.notion.so/a0ca6eeca2894de7966e3926abe27f85)
+[📖 04: The work required by software](https://github.com/dev-book-club/working-in-public/discussions/5)
 
-[05: Managing the costs of production](https://www.notion.so/104b6a50cf7e4046ac46db0fae75e7b6)
+[📖 05: Managing the costs of production](https://github.com/dev-book-club/working-in-public/discussions/6)
 
 ---
 
-[Dev Book Club Members](https://www.notion.so/3923e899e95644f684089ed4ff3f6c47)
 
 [Working in Public](https://www.goodreads.com/book/show/54140556-working-in-public)
